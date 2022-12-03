@@ -26,7 +26,7 @@
   justify-content: center;
   height: 100%;
   opacity: 1;
-  background: linear-gradient(90deg, rgba(2, 112, 13, 0.807), transparent);
+  background: green;
   border-radius: 0.5rem;
 }
 
